@@ -1,0 +1,111 @@
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">Mascotas_App</string>
+
+    <!-- Textos de la verificacion del Pin -->
+    <string name="PIN">Ingrece el PIN</string>
+    <string name="Titulo_Verificar_PIN">Verificación de PIN</string>
+    <string name="Verificar_PIN_Buttom">Velidación de PIN</string>
+    <string name="Text_PIN_Recuperacion">Olvidaste tu PIN? Click aquí</string>
+
+    <!-- Textos de la pantalla de inicio y login -->
+    <string name="TexTLogin_1">Login</string>
+    <string name="TexT_Inicio_1">Mascotas</string>
+    <string name="TexT_Inicio_2">¡Bienvenidos!</string>
+    <string name="Registro">Registro</string>
+    <string name="Recoveri">Recupera tu Cuenta</string>
+    <string name="Email">Email</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Confirmar">Confirmar</string>
+    <string name="Nombre_y_Apellido">Nombre y Apellido</string>
+    <string name="Confirmar_Contraseña">Confirmar contraseña</string>
+    <string name="Enviar">Enviar</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Modificar">Modificar</string>
+
+    <!-- Textos de entrada en Login -->
+    <string name="Ingreso_Login_1">Ingresar un email</string>
+    <string name="Ingreso_Login_2">Ingresar contraseña</string>
+    <string name="Boton_Login_Inicio">Iniciar Sesión</string>
+    <string name="Boton_Login_Registro">Registro</string>
+
+
+    <!-- Textos de entrada en Registro -->
+    <string name="Ingreso_Registro_1">Ingresar un email</string>
+    <string name="Ingreso_Registro_2">Ingresar datos</string>
+    <string name="Ingreso_Registro_3">Ingresar contraseña</string>
+    <string name="Ingreso_Registro_4">Confirmar contraseña</string>
+
+    <!-- Textos de recuperación de cuenta -->
+    <string name="recovery_information_1">Introduce tu e-mail, usuario, contraseña para poder usar la Aplicación</string>
+    <string name="recovery_information_2">Te enviaremos un correo para iniciar el proceso de recuperación de contraseña</string>
+    <string name="Verification_de_PIN"> Ingrece el PIN para ingresar a la App </string>
+
+    <!-- Menú -->
+    <string name="Titulo_Menu">Menu Principal</string>
+    <string name="MenuText_1">Registro</string>
+    <string name="MenuText_2">Carnet</string>
+    <string name="MenuText_3">Stock</string>
+
+    <!-- Buscador -->
+    <string name="Buscar">Buscar....</string>
+
+    <!-- Afirmaciones y botones -->
+    <string name="Afirmacio_1">Sí</string>
+    <string name="Afirmacio_2">No</string>
+    <string name="Atras">Atrás</string>
+    <string name="Añadir">Agregar</string>
+
+    <!-- Textos de registros y muestra -->
+    <string name="Registro_text_1">Datos del Propietario</string>
+    <string name="Registro_text_2">Datos de la Mascota</string>
+    <string name="Registro_Muestra_1">Registro de Animales</string>
+
+    <!-- Campos del registro -->
+    <string name="Nombre_registro">Nombre:</string>
+    <string name="Apellido_registro">Apellido:</string>
+    <string name="Direccion_registro">Dirección:</string>
+    <string name="Telefono_registro">Teléfono:</string>
+    <string name="F_N">Fecha de Nacimiento:</string>
+    <string name="Raza">Raza:</string>
+    <string name="Pelaje">Pelaje:</string>
+    <string name="P">Peso:</string>
+    <string name="S">Sexo:</string>
+
+    <!-- Textos de los EditText en el registro -->
+    <string name="Nombre_registro_edit">Nombre</string>
+    <string name="Apellido_registro_edit">Apellido</string>
+    <string name="Direccion_registro_edit">Dirección</string>
+    <string name="Telefono_registro_edit">Teléfono</string>
+    <string name="F_N_edit">DD/MM/AA</string>
+    <string name="Raza_edit">Raza</string>
+    <string name="Pelaje_edit">Pelaje</string>
+    <string name="P_edit">Peso</string>
+    <string name="S_edit">Sexo</string>
+
+    <!-- Tipos de carnet -->
+    <string name="Tetx_Tipo_carnet">Tipos de Carnet</string>
+    <string name="Tipo_carnet_1">Caninos</string>
+    <string name="Tipo_carnet_2">Felinos</string>
+    <string name="Tipo_carnet_3">Roedores</string>
+    <string name="Tipo_carnet_4">Aves</string>
+    <string name="Tipo_carnet_5">Reptiles</string>
+
+    <!-- Mostrar carnet -->
+    <string name="Tipo_Cart_Title">Nombre de la Mascota</string>
+    <string name="Despa">Desparacitación</string>
+    <string name="Vacu">Vacunación</string>
+
+    <!-- Modificar registro -->
+    <string name="Mod">¿Desea modificar este registro?</string>
+
+    <!-- Muestra de la tabla de registro -->
+    <string name="tabla_title_1">Nombre del dueño</string>
+    <string name="tabla_title_2">Nombre de la mascota</string>
+    <string name="tabla_title_3">Cantidad</string>
+
+    <!-- Otros -->
+    <string name="NV">_</string>
+
+</resources>
