@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="Black">#FF000000</color>
-    <color name="White">#FFFFFFFF</color>
-    <color name="Click_Color">#FF5733</color>
-    <color name="SubTextSolor">#9CA3AF</color>
-    <color name="ColorButtom">#D66789</color>
-</resources>
